@@ -39,9 +39,20 @@ body {
   padding: 1em;
 }
 
+.my_t {
+  text-align: center;
+}
+
 .portfolio {
   background-color: rgb(255, 240, 192) !important;
 }
+
+
+  .small-carousel-img {
+    display: block;
+    margin: 0 auto;
+  }
+
 
 
 
